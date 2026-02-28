@@ -9,3 +9,8 @@ langgraph
 youtube-search-python
 python-dotenv
 youtube_search
+wikipedia
+lxml
+langchain-tavily
+yfinance
+ddgs
